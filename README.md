@@ -1,6 +1,6 @@
 g- 👋 Hi, I’m @NaViVccc
 - 👀 I’m interested in programação
-- 🌱 I’m currently learning  html
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
